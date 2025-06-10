@@ -1,0 +1,11 @@
+{
+  "name": "simple-premium-scraper",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "apify": "^3.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
