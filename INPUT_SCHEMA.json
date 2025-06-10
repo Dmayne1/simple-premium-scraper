@@ -1,0 +1,16 @@
+{
+  "title": "Configuration",
+  "type": "object",
+  "properties": {
+    "startUrls": {
+      "title": "Start URLs",
+      "type": "array",
+      "editor": "requestListSources",
+      "default": [
+        {
+          "url": "https://example.com"
+        }
+      ]
+    }
+  }
+}
